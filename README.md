@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kartoshka-ma
+- 🌱 I’m currently learning APIs & Python
+- 📫 How to reach me? Telegram - @lowhopiii
